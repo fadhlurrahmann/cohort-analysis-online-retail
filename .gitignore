@@ -1,2 +1,6 @@
 ref.txt
 Cohort_Retention_Table.csv
+cohort_analysis_cte_subquery.sql
+*.png
+*.pptx
+online_retail/
